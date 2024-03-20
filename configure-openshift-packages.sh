@@ -111,7 +111,7 @@ usage() {
   ${0}  --install -v pre-release
 
   To install specific OpenShift Version
-  export VERSION=latest-4.9
+  export VERSION=latest-4.14
   ${0} -i
 "
 }
